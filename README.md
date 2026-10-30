@@ -1,31 +1,47 @@
-# 🏗️ Keramik New — Yeni Kurumsal Web Sitesi
+<div align="center">
 
-> 1985'ten beri endüstriyel otomasyon çözümleri üreten Keramik Makina için yeniden tasarlanan kurumsal site
+# ✨ Keramik Makina
 
-## 🌐 Demo
-**[Canlı Demo](https://keramik.com.tr/test/index.html)**
+**Kurumsal Site · Kurumsal Web Sitesi**
 
-## ✨ Özellikler
-- Canvas tabanlı interaktif dot-grid hero section
-- Mouse takipli 3D paralaks floating kartlar
-- Manyetik istasyon ikonları (cursor'a çekilen)
-- Scroll pozisyonuna bağlı konveyör bant animasyonu
-- Intersection Observer ile scroll-triggered reveal efektleri
-- Sayaç animasyonları (istatistikler)
-- 3D tilt efektli ürün kartları
-- TR/EN dil desteği (LocalStorage ile kalıcı)
-- InterPack 2026 tanıtım popup'ı
-- WhatsApp CTA bar & scroll-to-top
-- Lightbox galeri
-- Mobil uyumlu hamburger menü
+<img src="https://bugrayetis.github.io/yeni/assets/covers/keramik-makina.jpg" width="100%" alt="Keramik Makina ön izleme" />
 
-## 🛠️ Teknolojiler
-`Vanilla JavaScript` `Canvas API` `Intersection Observer` `requestAnimationFrame` `CSS3` `Responsive Design` `LocalStorage`
+<br/><br/>
 
-## 🎨 Tasarım
-- Renk: Kırmızı (#D42B2B) accent / beyaz-koyu arka plan
-- Font: Space Grotesk (başlık) + Inter (gövde)
-- Grid tabanlı clean layout
+<a href="https://bugrayetis.github.io/mevcut.html#proje-keramik-makina"><img src="https://img.shields.io/badge/🔍_Açıklama,_Ön_İzleme_ve_İçerik_İçin-Portfolyoma_Göz_At_→-6c63ff?style=for-the-badge" alt="Portfolyoda incele" /></a>
+
+</div>
 
 ---
-*Buğra Yetiş — MAE Reklam Ajansı · İstanbul*
+
+## 📌 Proje Hakkında
+
+1985'ten bu yana hat sonu paletleme ve paketleme çözümlerinde öncü olan Keramik Makina için tasarladığım kurumsal site. Ürün kataloğu, sektör bazlı çözümler, proje referansları ve teklif talep sistemi içeriyor.
+
+| | |
+|---|---|
+| **Kategori** | Kurumsal Site |
+| **Geliştirici** | Buğra Yetiş · MAE Reklam Ajansı |
+
+## 🛠️ Kullanılan Teknolojiler
+
+![HTML / CSS](https://img.shields.io/badge/HTML_%2F_CSS-1f2233?style=flat-square)
+![JavaScript](https://img.shields.io/badge/JavaScript-1f2233?style=flat-square)
+![Ürün Kataloğu](https://img.shields.io/badge/%C3%9Cr%C3%BCn_Katalo%C4%9Fu-1f2233?style=flat-square)
+![Responsive](https://img.shields.io/badge/Responsive-1f2233?style=flat-square)
+
+## 🔒 Kaynak Kod
+
+Bu repo yalnızca projenin tanıtımını içerir. Müşteri gizliliği ve telif hakları nedeniyle kaynak kod paylaşılmıyor.
+Projeyi canlı görmek, ekran görüntülerine ve detaylarına bakmak için **[portfolyomdaki proje sayfasına](https://bugrayetis.github.io/mevcut.html#proje-keramik-makina)** göz atın.
+
+---
+
+<div align="center">
+
+<a href="https://bugrayetis.github.io/mevcut.html#proje-keramik-makina"><img src="https://img.shields.io/badge/🌐_Portfolyoda_İncele-bugrayetis.github.io-6c63ff?style=for-the-badge" /></a>
+<a href="https://github.com/BugraYetis"><img src="https://img.shields.io/badge/👤_Tüm_Projeler-BugraYetis-181717?style=for-the-badge&logo=github" /></a>
+
+<sub>Buğra Yetiş — Mid Web Developer & Grafik Tasarımcı · İstanbul</sub>
+
+</div>
