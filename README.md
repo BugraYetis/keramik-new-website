@@ -1,6 +1,6 @@
 <div align="center">
 
-# ✨ Keramik Makina
+# 🏗️ Keramik Makina
 
 **Kurumsal Site · Kurumsal Web Sitesi**
 
